@@ -1,0 +1,748 @@
+{
+  "issuers": [
+    {
+      "issuer": "KraneShares",
+      "dividendAnnouncementWebsite": "https://kraneshares.com",
+      "tickers": [
+        {
+          "ticker": "KLIP",
+          "dividendUrl": "https://kraneshares.com/klip/"
+        },
+        {
+          "ticker": "KHYB",
+          "dividendUrl": "https://kraneshares.com/KHYB/"
+        },
+        {
+          "ticker": "KCSH",
+          "dividendUrl": "https://kraneshares.com/kcsh/"
+        }
+      ]
+    },
+    {
+      "issuer": "REXShares",
+      "dividendAnnouncementWebsite": "https://www.rexshares.com/news-insights/",
+      "tickers": [
+        {
+          "ticker": "FEPI",
+          "dividendUrl": "https://www.rexshares.com/fepi/"
+        },
+        {
+          "ticker": "AIPI",
+          "dividendUrl": "https://www.rexshares.com/aipi/"
+        },
+        {
+          "ticker": "CEPI",
+          "dividendUrl": "https://www.rexshares.com/cepi/"
+        },
+        {
+          "ticker": "NVII",
+          "dividendUrl": "https://www.rexshares.com/nvii/"
+        },
+        {
+          "ticker": "COII",
+          "dividendUrl": "https://www.rexshares.com/coii/"
+        },
+        {
+          "ticker": "MSII",
+          "dividendUrl": "https://www.rexshares.com/msii/"
+        },
+        {
+          "ticker": "TSII",
+          "dividendUrl": "https://www.rexshares.com/tsii/"
+        }
+      ]
+    },
+    {
+      "issuer": "Schwab",
+      "dividendAnnouncementWebsite": "https://www.schwabassetmanagement.com/products/schd",
+      "tickers": [
+        {
+          "ticker": "SCHD",
+          "dividendUrl": "https://www.schwabassetmanagement.com/products/schd"
+        }
+      ]
+    },
+    {
+      "issuer": "REXShares",
+      "dividendAnnouncementWebsite": "https://www.rexshares.com/news-insights/",
+      "tickers": [
+        {
+          "ticker": "FEPI",
+          "dividendUrl": "https://www.rexshares.com/fepi/"
+        },
+        {
+          "ticker": "AIPI",
+          "dividendUrl": "https://www.rexshares.com/aipi/"
+        },
+        {
+          "ticker": "CEPI",
+          "dividendUrl": "https://www.rexshares.com/cepi/"
+        },
+        {
+          "ticker": "NVII",
+          "dividendUrl": "https://www.rexshares.com/nvii/"
+        },
+        {
+          "ticker": "COII",
+          "dividendUrl": "https://www.rexshares.com/coii/"
+        },
+        {
+          "ticker": "MSII",
+          "dividendUrl": "https://www.rexshares.com/msii/"
+        },
+        {
+          "ticker": "TSII",
+          "dividendUrl": "https://www.rexshares.com/tsii/"
+        }
+      ]
+    },
+    {
+      "issuer": "Schwab",
+      "dividendAnnouncementWebsite": "https://www.schwabassetmanagement.com/products/schd",
+      "tickers": [
+        {
+          "ticker": "SCHD",
+          "dividendUrl": "https://www.schwabassetmanagement.com/products/schd"
+        }
+      ]
+    },
+    {
+      "issuer": "YieldMax",
+      "dividendAnnouncementWebsite": "https://yieldmaxetfs.com/distribution-schedule/",
+      "tickers": [
+        {
+          "ticker": "TSLY",
+          "dividendUrl": "https://yieldmaxetfs.com/our-etfs/tsly/"
+        },
+        {
+          "ticker": "OARK",
+          "dividendUrl": "https://yieldmaxetfs.com/our-etfs/oark/"
+        },
+        {
+          "ticker": "APLY",
+          "dividendUrl": "https://yieldmaxetfs.com/our-etfs/aply/"
+        },
+        {
+          "ticker": "NVDY",
+          "dividendUrl": "https://yieldmaxetfs.com/our-etfs/nvdy/"
+        },
+        {
+          "ticker": "AMZY",
+          "dividendUrl": "https://yieldmaxetfs.com/our-etfs/amzy/"
+        },
+        {
+          "ticker": "FBY",
+          "dividendUrl": "https://yieldmaxetfs.com/our-etfs/fby/"
+        },
+        {
+          "ticker": "GOOY",
+          "dividendUrl": "https://yieldmaxetfs.com/our-etfs/gooy/"
+        },
+        {
+          "ticker": "CONY",
+          "dividendUrl": "https://yieldmaxetfs.com/our-etfs/cony/"
+        },
+        {
+          "ticker": "NFLY",
+          "dividendUrl": "https://yieldmaxetfs.com/our-etfs/nfly/"
+        },
+        {
+          "ticker": "DISO",
+          "dividendUrl": "https://yieldmaxetfs.com/our-etfs/diso/"
+        },
+        {
+          "ticker": "MSFO",
+          "dividendUrl": "https://yieldmaxetfs.com/our-etfs/msfo/"
+        },
+        {
+          "ticker": "XOMO",
+          "dividendUrl": "https://yieldmaxetfs.com/our-etfs/xomo/"
+        },
+        {
+          "ticker": "JPMO",
+          "dividendUrl": "https://yieldmaxetfs.com/our-etfs/jpmo/"
+        },
+        {
+          "ticker": "AMDY",
+          "dividendUrl": "https://yieldmaxetfs.com/our-etfs/amdy/"
+        },
+        {
+          "ticker": "PYPY",
+          "dividendUrl": "https://yieldmaxetfs.com/our-etfs/pypy/"
+        },
+        {
+          "ticker": "XYZY",
+          "dividendUrl": "https://yieldmaxetfs.com/our-etfs/xyzy/"
+        },
+        {
+          "ticker": "MRNY",
+          "dividendUrl": "https://yieldmaxetfs.com/our-etfs/mrny/"
+        },
+        {
+          "ticker": "AIYY",
+          "dividendUrl": "https://yieldmaxetfs.com/our-etfs/aiyy/"
+        },
+        {
+          "ticker": "YMAX",
+          "dividendUrl": "https://yieldmaxetfs.com/our-etfs/ymax/"
+        },
+        {
+          "ticker": "YMAG",
+          "dividendUrl": "https://yieldmaxetfs.com/our-etfs/ymag/"
+        },
+        {
+          "ticker": "MSTY",
+          "dividendUrl": "https://yieldmaxetfs.com/our-etfs/msty/"
+        },
+        {
+          "ticker": "ULTY",
+          "dividendUrl": "https://yieldmaxetfs.com/our-etfs/ulty/"
+        },
+        {
+          "ticker": "YBIT",
+          "dividendUrl": "https://yieldmaxetfs.com/our-etfs/ybit/"
+        },
+        {
+          "ticker": "CRSH",
+          "dividendUrl": "https://yieldmaxetfs.com/our-etfs/crsh/"
+        },
+        {
+          "ticker": "GDXY",
+          "dividendUrl": "https://yieldmaxetfs.com/our-etfs/gdxy/"
+        },
+        {
+          "ticker": "SNOY",
+          "dividendUrl": "https://yieldmaxetfs.com/our-etfs/snoy/"
+        },
+        {
+          "ticker": "ABNY",
+          "dividendUrl": "https://yieldmaxetfs.com/our-etfs/abny/"
+        },
+        {
+          "ticker": "FIAT",
+          "dividendUrl": "https://yieldmaxetfs.com/our-etfs/fiat/"
+        },
+        {
+          "ticker": "DIPS",
+          "dividendUrl": "https://yieldmaxetfs.com/our-etfs/dips/"
+        },
+        {
+          "ticker": "BABO",
+          "dividendUrl": "https://yieldmaxetfs.com/our-etfs/babo/"
+        },
+        {
+          "ticker": "YQQQ",
+          "dividendUrl": "https://yieldmaxetfs.com/our-etfs/yqqq/"
+        },
+        {
+          "ticker": "TSMY",
+          "dividendUrl": "https://yieldmaxetfs.com/our-etfs/tsmy/"
+        },
+        {
+          "ticker": "SMCY",
+          "dividendUrl": "https://yieldmaxetfs.com/our-etfs/smcy/"
+        },
+        {
+          "ticker": "PLTY",
+          "dividendUrl": "https://yieldmaxetfs.com/our-etfs/plty/"
+        },
+        {
+          "ticker": "BIGY",
+          "dividendUrl": "https://yieldmaxetfs.com/our-etfs/bigy/"
+        },
+        {
+          "ticker": "SOXY",
+          "dividendUrl": "https://yieldmaxetfs.com/our-etfs/soxy/"
+        },
+        {
+          "ticker": "MARO",
+          "dividendUrl": "https://yieldmaxetfs.com/our-etfs/maro/"
+        },
+        {
+          "ticker": "FEAT",
+          "dividendUrl": "https://yieldmaxetfs.com/our-etfs/feat/"
+        },
+        {
+          "ticker": "FIVY",
+          "dividendUrl": "https://yieldmaxetfs.com/our-etfs/fivy/"
+        },
+        {
+          "ticker": "LFGY",
+          "dividendUrl": "https://yieldmaxetfs.com/our-etfs/lfgy/"
+        },
+        {
+          "ticker": "GPTY",
+          "dividendUrl": "https://yieldmaxetfs.com/our-etfs/gpty/"
+        },
+        {
+          "ticker": "CVNY",
+          "dividendUrl": "https://yieldmaxetfs.com/our-etfs/cvny/"
+        },
+        {
+          "ticker": "SDTY",
+          "dividendUrl": "https://yieldmaxetfs.com/our-etfs/sdty/"
+        },
+        {
+          "ticker": "QDTY",
+          "dividendUrl": "https://yieldmaxetfs.com/our-etfs/qdty/"
+        },
+        {
+          "ticker": "RDTY",
+          "dividendUrl": "https://yieldmaxetfs.com/our-etfs/rdty/"
+        },
+        {
+          "ticker": "WNTR",
+          "dividendUrl": "https://yieldmaxetfs.com/our-etfs/wntr/"
+        },
+        {
+          "ticker": "CHPY",
+          "dividendUrl": "https://yieldmaxetfs.com/our-etfs/chpy/"
+        },
+        {
+          "ticker": "RNTY",
+          "dividendUrl": "https://yieldmaxetfs.com/our-etfs/rnty/"
+        },
+        {
+          "ticker": "HOOY",
+          "dividendUrl": "https://yieldmaxetfs.com/our-etfs/hooy/"
+        },
+        {
+          "ticker": "BRKC",
+          "dividendUrl": "https://yieldmaxetfs.com/our-etfs/brkc/"
+        },
+        {
+          "ticker": "DRAY",
+          "dividendUrl": "https://yieldmaxetfs.com/our-etfs/dray/"
+        },
+        {
+          "ticker": "RBLY",
+          "dividendUrl": "https://yieldmaxetfs.com/our-etfs/rbly/"
+        },
+        {
+          "ticker": "SLTY",
+          "dividendUrl": "https://yieldmaxetfs.com/our-etfs/slty/"
+        }
+      ]
+    },
+    {
+      "issuer": "NEOS",
+      "dividendAnnouncementWebsite": "https://neosfunds.com",
+      "tickers": [
+        {
+          "ticker": "SPYI",
+          "dividendUrl": "https://neosfunds.com/spyi/"
+        },
+        {
+          "ticker": "QQQI",
+          "dividendUrl": "https://neosfunds.com/qqqi/"
+        },
+        {
+          "ticker": "IWMI",
+          "dividendUrl": "https://neosfunds.com/iwmi/"
+        },
+        {
+          "ticker": "QQQH",
+          "dividendUrl": "https://neosfunds.com/qqqh/"
+        },
+        {
+          "ticker": "SPYH",
+          "dividendUrl": "https://neosfunds.com/spyh/"
+        },
+        {
+          "ticker": "BTCI",
+          "dividendUrl": "https://neosfunds.com/btci/"
+        },
+        {
+          "ticker": "IYRI",
+          "dividendUrl": "https://neosfunds.com/iyri/"
+        },
+        {
+          "ticker": "HYBI",
+          "dividendUrl": "https://neosfunds.com/hybi/"
+        },
+        {
+          "ticker": "BNDI",
+          "dividendUrl": "https://neosfunds.com/bndi/"
+        },
+        {
+          "ticker": "CSHI",
+          "dividendUrl": "https://neosfunds.com/cshi/"
+        },
+        {
+          "ticker": "TLTI",
+          "dividendUrl": "https://neosfunds.com/tlti/"
+        },
+        {
+          "ticker": "IAUI",
+          "dividendUrl": "https://neosfunds.com/iaui/"
+        }
+      ]
+    },
+    {
+      "issuer": "Roundhill",
+      "dividendAnnouncementWebsite": "https://www.roundhillinvestments.com/etf/",
+      "tickers": [
+        {
+          "ticker": "YBTC",
+          "dividendUrl": "https://www.roundhillinvestments.com/etf/ybtc/"
+        },
+        {
+          "ticker": "QDTE",
+          "dividendUrl": "https://www.roundhillinvestments.com/etf/qdte/"
+        },
+        {
+          "ticker": "XDTE",
+          "dividendUrl": "https://www.roundhillinvestments.com/etf/xdte/"
+        },
+        {
+          "ticker": "YETH",
+          "dividendUrl": "https://www.roundhillinvestments.com/etf/yeth/"
+        },
+        {
+          "ticker": "RDTE",
+          "dividendUrl": "https://www.roundhillinvestments.com/etf/rdte/"
+        },
+        {
+          "ticker": "XPAY",
+          "dividendUrl": "https://www.roundhillinvestments.com/etf/xpay/"
+        },
+        {
+          "ticker": "NVDW",
+          "dividendUrl": "https://www.roundhillinvestments.com/etf/nvdw/"
+        },
+        {
+          "ticker": "TSLW",
+          "dividendUrl": "https://www.roundhillinvestments.com/etf/tslw/"
+        },
+        {
+          "ticker": "AAPW",
+          "dividendUrl": "https://www.roundhillinvestments.com/etf/aapw/"
+        },
+        {
+          "ticker": "COIW",
+          "dividendUrl": "https://www.roundhillinvestments.com/etf/coiw/"
+        },
+        {
+          "ticker": "PLTW",
+          "dividendUrl": "https://www.roundhillinvestments.com/etf/pltw/"
+        },
+        {
+          "ticker": "MAGY",
+          "dividendUrl": "https://www.roundhillinvestments.com/etf/magy/"
+        },
+        {
+          "ticker": "AMZW",
+          "dividendUrl": "https://www.roundhillinvestments.com/etf/amzw/"
+        },
+        {
+          "ticker": "BRKW",
+          "dividendUrl": "https://www.roundhillinvestments.com/etf/brkw/"
+        },
+        {
+          "ticker": "HOOW",
+          "dividendUrl": "https://www.roundhillinvestments.com/etf/hoow/"
+        },
+        {
+          "ticker": "METW",
+          "dividendUrl": "https://www.roundhillinvestments.com/etf/metw/"
+        },
+        {
+          "ticker": "NFLW",
+          "dividendUrl": "https://www.roundhillinvestments.com/etf/nflw/"
+        },
+        {
+          "ticker": "AMDW",
+          "dividendUrl": "https://www.roundhillinvestments.com/etf/amdw/"
+        },
+        {
+          "ticker": "AVGW",
+          "dividendUrl": "https://www.roundhillinvestments.com/etf/avgw/"
+        },
+        {
+          "ticker": "GOOW",
+          "dividendUrl": "https://www.roundhillinvestments.com/etf/goow/"
+        },
+        {
+          "ticker": "MSFW",
+          "dividendUrl": "https://www.roundhillinvestments.com/etf/msfw/"
+        },
+        {
+          "ticker": "MSTW",
+          "dividendUrl": "https://www.roundhillinvestments.com/etf/mstw/"
+        },
+        {
+          "ticker": "WPAY",
+          "dividendUrl": "https://www.roundhillinvestments.com/etf/wpay/"
+        }
+      ]
+    },
+    {
+      "issuer": "Kurv",
+      "dividendAnnouncementWebsite": "https://www.kurvinvest.com/distribution-schedule",
+      "tickers": [
+        {
+          "ticker": "AMZP",
+          "dividendUrl": "https://www.kurvinvest.com/amzp"
+        },
+        {
+          "ticker": "AAPY",
+          "dividendUrl": "https://www.kurvinvest.com/aapy"
+        },
+        {
+          "ticker": "GOOP",
+          "dividendUrl": "https://www.kurvinvest.com/goop"
+        },
+        {
+          "ticker": "MSFY",
+          "dividendUrl": "https://www.kurvinvest.com/msfy"
+        },
+        {
+          "ticker": "NFLP",
+          "dividendUrl": "https://www.kurvinvest.com/nflp"
+        },
+        {
+          "ticker": "TSLP",
+          "dividendUrl": "https://www.kurvinvest.com/tslp"
+        }
+      ]
+    },
+    {
+      "issuer": "Defiance",
+      "dividendAnnouncementWebsite": "https://www.defianceetfs.com",
+      "tickers": [
+        {
+          "ticker": "QQQY",
+          "dividendUrl": "https://www.defianceetfs.com/qqqy"
+        },
+        {
+          "ticker": "WDTE",
+          "dividendUrl": "https://www.defianceetfs.com/wdte"
+        },
+        {
+          "ticker": "IWMY",
+          "dividendUrl": "https://www.defianceetfs.com/iwmy"
+        },
+        {
+          "ticker": "SPYT",
+          "dividendUrl": "https://www.defianceetfs.com/spyt"
+        },
+        {
+          "ticker": "USOY",
+          "dividendUrl": "https://www.defianceetfs.com/usoy"
+        },
+        {
+          "ticker": "QQQT",
+          "dividendUrl": "https://www.defianceetfs.com/qqqt"
+        },
+        {
+          "ticker": "GLDY",
+          "dividendUrl": "https://www.defianceetfs.com/gldy"
+        },
+        {
+          "ticker": "MST",
+          "dividendUrl": "https://www.defianceetfs.com/mst"
+        },
+        {
+          "ticker": "HIMY",
+          "dividendUrl": "https://www.defianceetfs.com/himy"
+        },
+        {
+          "ticker": "SMCC",
+          "dividendUrl": "https://www.defianceetfs.com/smcc"
+        },
+        {
+          "ticker": "AMDU",
+          "dividendUrl": "https://www.defianceetfs.com/amdu"
+        },
+        {
+          "ticker": "PLT",
+          "dividendUrl": "https://www.defianceetfs.com/plt"
+        },
+        {
+          "ticker": "HOOI",
+          "dividendUrl": "https://www.defianceetfs.com/hooi"
+        }
+      ]
+    },
+    {
+      "issuer": "GlobalX",
+      "dividendAnnouncementWebsite": "https://www.globalxetfs.com",
+      "tickers": [
+        {
+          "ticker": "DJIA",
+          "dividendUrl": "https://www.globalxetfs.com/funds/djia/"
+        },
+        {
+          "ticker": "MLPD",
+          "dividendUrl": "https://www.globalxetfs.com/funds/mlpd/"
+        },
+        {
+          "ticker": "QRMI",
+          "dividendUrl": "https://www.globalxetfs.com/funds/qrmi/"
+        },
+        {
+          "ticker": "QYLD",
+          "dividendUrl": "https://www.globalxetfs.com/funds/qyld/"
+        },
+        {
+          "ticker": "RYLD",
+          "dividendUrl": "https://www.globalxetfs.com/funds/ryld/"
+        },
+        {
+          "ticker": "XRMI",
+          "dividendUrl": "https://www.globalxetfs.com/funds/xrmi/"
+        },
+        {
+          "ticker": "XYLD",
+          "dividendUrl": "https://www.globalxetfs.com/funds/xyld/"
+        },
+        {
+          "ticker": "BCCC",
+          "dividendUrl": "https://www.globalxetfs.com/funds/bccc/"
+        },
+        {
+          "ticker": "DYLG",
+          "dividendUrl": "https://www.globalxetfs.com/funds/dylg/"
+        },
+        {
+          "ticker": "QYLG",
+          "dividendUrl": "https://www.globalxetfs.com/funds/qylg/"
+        },
+        {
+          "ticker": "RYLG",
+          "dividendUrl": "https://www.globalxetfs.com/funds/rylg/"
+        },
+        {
+          "ticker": "TYLG",
+          "dividendUrl": "https://www.globalxetfs.com/funds/tylg/"
+        },
+        {
+          "ticker": "XYLG",
+          "dividendUrl": "https://www.globalxetfs.com/funds/xylg/"
+        },
+        {
+          "ticker": "DIV",
+          "dividendUrl": "https://www.globalxetfs.com/funds/div/"
+        },
+        {
+          "ticker": "EFAS",
+          "dividendUrl": "https://www.globalxetfs.com/funds/efas/"
+        },
+        {
+          "ticker": "QDIV",
+          "dividendUrl": "https://www.globalxetfs.com/funds/qdiv/"
+        },
+        {
+          "ticker": "SDEM",
+          "dividendUrl": "https://www.globalxetfs.com/funds/sdem/"
+        },
+        {
+          "ticker": "SDIV",
+          "dividendUrl": "https://www.globalxetfs.com/funds/sdiv/"
+        },
+        {
+          "ticker": "PFFD",
+          "dividendUrl": "https://www.globalxetfs.com/funds/pffd/"
+        },
+        {
+          "ticker": "PFFV",
+          "dividendUrl": "https://www.globalxetfs.com/funds/pffv/"
+        },
+        {
+          "ticker": "SPFF",
+          "dividendUrl": "https://www.globalxetfs.com/funds/spff/"
+        },
+        {
+          "ticker": "ALTY",
+          "dividendUrl": "https://www.globalxetfs.com/funds/alty/"
+        },
+        {
+          "ticker": "MLPA",
+          "dividendUrl": "https://www.globalxetfs.com/funds/mlpa/"
+        },
+        {
+          "ticker": "MLPX",
+          "dividendUrl": "https://www.globalxetfs.com/funds/mlpx/"
+        },
+        {
+          "ticker": "SRET",
+          "dividendUrl": "https://www.globalxetfs.com/funds/sret/"
+        },
+        {
+          "ticker": "TLTX",
+          "dividendUrl": "https://www.globalxetfs.com/funds/tltx/"
+        }
+      ]
+    },
+    {
+      "issuer": "XFUNDS",
+      "dividendAnnouncementWebsite": "https://www.xfunds.com",
+      "tickers": [
+        {
+          "ticker": "FIAX",
+          "dividendUrl": "https://www.xfunds.com/fiax"
+        },
+        {
+          "ticker": "GIAX",
+          "dividendUrl": "https://www.xfunds.com/giax"
+        },
+        {
+          "ticker": "BLOX",
+          "dividendUrl": "https://www.xfunds.com/blox"
+        }
+      ]
+    },
+    {
+      "issuer": "Bitwise",
+      "dividendAnnouncementWebsite": "https://bitwiseinvestments.com",
+      "tickers": [
+        {
+          "ticker": "ICOI",
+          "dividendUrl": "https://bitwiseinvestments.com/crypto-etfs/icoi"
+        },
+        {
+          "ticker": "IGME",
+          "dividendUrl": "https://bitwiseinvestments.com/crypto-etfs/igme"
+        },
+        {
+          "ticker": "IMRA",
+          "dividendUrl": "https://bitwiseinvestments.com/crypto-etfs/imra"
+        },
+        {
+          "ticker": "IMST",
+          "dividendUrl": "https://bitwiseinvestments.com/crypto-etfs/imst"
+        }
+      ]
+    },
+    {
+      "issuer": "GraniteShares",
+      "dividendAnnouncementWebsite": "https://www.graniteshares.com",
+      "tickers": [
+        {
+          "ticker": "TSYY",
+          "dividendUrl": "https://www.graniteshares.com/etf/tsyy/"
+        },
+        {
+          "ticker": "TQQY",
+          "dividendUrl": "https://www.graniteshares.com/etf/tqqy/"
+        },
+        {
+          "ticker": "YSPY",
+          "dividendUrl": "https://www.graniteshares.com/etf/yspy/"
+        },
+        {
+          "ticker": "NVYY",
+          "dividendUrl": "https://www.graniteshares.com/etf/nvyy/"
+        },
+        {
+          "ticker": "XBTY",
+          "dividendUrl": "https://www.graniteshares.com/etf/xbty/"
+        },
+        {
+          "ticker": "COYY",
+          "dividendUrl": "https://www.graniteshares.com/etf/coyy/"
+        }
+      ]
+    }
+  ]
+}
